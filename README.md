@@ -35,11 +35,11 @@
 
 ---
 
-## 📜 鸣谢与声明 (Acknowledgments & Disclaimer)
+## 📜 鸣谢与贡献 (Acknowledgments & Credits)
 
-### 鸣谢
-- 感谢 **[毛怪俱乐部 (2550505.com)](https://2550505.com)** 社区及开发者提供的交流平台。
-- 感谢 **[Tampermonkey](https://www.tampermonkey.net/)** 提供的用户脚本运行环境。
+- **开发与设计**：由 **bittersweetis** 与 **Antigravity (Google DeepMind)** 结对编程协作开发。
+- **社区支持**：感谢 **[毛怪俱乐部 (2550505.com)](https://2550505.com)** 社区及开发者提供的交流平台。
+- **生态支持**：感谢 **[Tampermonkey](https://www.tampermonkey.net/)** 与 **[Greasy Fork](https://greasyfork.org/)** 提供的脚本运行与托管分发支持。
 
 ### 免责声明
 - 本项目为独立开发的用户脚本，未引用任何第三方开源项目代码。
