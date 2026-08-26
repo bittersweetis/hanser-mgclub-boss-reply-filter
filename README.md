@@ -25,6 +25,7 @@
 
 ### 2. 安装脚本
 - 打开油猴扩展管理面板，新建用户脚本，将本仓库的 `hanser-extractor.user.js` 代码复制粘贴并保存。
+- 或使用About贴出的greasyfork链接：[![GreasyFork](https://img.shields.io/badge/GreasyFork-前往安装脚本-red.svg)](https://greasyfork.org/zh-CN/scripts/593050)
 
 ### 3. 开始使用
 1. 打开并登录 [毛怪俱乐部 (2550505.com)](https://2550505.com)；
